@@ -33,7 +33,7 @@ background-color: black;
     height: 60px;
     border-radius: 30px;
     flex: 1;
-    margin-right: 30px;
+    margin-right: 16px;
     font-size: 18px;
 
 }
@@ -45,5 +45,8 @@ background-color: black;
     width: 60px;
     height: 60px;
     cursor: pointer;
-    
+
+}
+.search button image{
+    width: 16px;
 }
